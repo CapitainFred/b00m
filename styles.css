@@ -24,7 +24,7 @@ body {
     margin-right: auto;
 }
 
-img {
+.header .logo_img {
     max-width: 25%;
     height: auto;
     display: block;
