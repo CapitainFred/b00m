@@ -18,6 +18,10 @@ body {
 
 .logo {
     align-items: center;
+    display: flex;
+    align-items: center;
+    min-height: 100px;
+    margin-right: auto
 }
 
 .logo img {
