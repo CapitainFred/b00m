@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     min-height: 100vh;
-    background-color: #000000;
+    background: linear-gradient(180deg, #000000 55%, #ff0000 100%)
 }
 
 .header {
