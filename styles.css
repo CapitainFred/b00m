@@ -4,13 +4,6 @@ body {
     background-color: #000000;
 }
 
-.holder {
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    background-color: #ffffff;
-}
-
 .header {
     background-color: #333;
     color: #fff;
@@ -34,7 +27,7 @@ body {
 }
 
 .logo img {
-    max-width: 15%;
+    max-width: 25%;
     height: auto;
 }
 
@@ -48,4 +41,18 @@ input {
 input:focus {
     outline: none;
     border-color: #ff0000;
+}
+
+.holder {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+
+p {
+        margin: 0;
+        padding: 5px;
+        background-color: #ffffff;
+        border: 1px solid #ddd;
 }
