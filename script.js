@@ -4,11 +4,13 @@ document.getElementById('content').addEventListener('input', function() {
 
     if (id === '') {
         console.error('ID cannot be empty');
+        alert('ID cannot be empty');
         return;
     }
 
     if (content === '') {
         console.error('Content cannot be empty');
+        alert('Content cannot be empty');
         return;
     }
     
