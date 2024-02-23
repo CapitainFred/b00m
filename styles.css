@@ -16,7 +16,11 @@ body {
     align-items: center;
 }
 
-img {
+.logo {
+    align-items: center;
+}
+
+.logo img {
     max-width: 25%;
     height: auto;
 }
